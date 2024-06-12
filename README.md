@@ -93,4 +93,3 @@ Sinta-se à vontade para contribuir com sugestões, correções de bugs ou novas
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 ```
 
-Este arquivo Markdown serve como uma documentação elegante e estruturada para o seu projeto. Você pode adicionar ou modificar as seções conforme necessário para atender às especificações e necessidades do seu projeto.
