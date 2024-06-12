@@ -91,5 +91,4 @@ Sinta-se à vontade para contribuir com sugestões, correções de bugs ou novas
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
-```
 
