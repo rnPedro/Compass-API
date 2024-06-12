@@ -16,7 +16,7 @@ API simples em Node.js com Express para gerenciamento de cidades e clientes.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/rnPedro/compass-api.git
+   git clone https://github.com/rnPedro/Compass-API.git
    ```
 
 2. Instale as dependências do projeto:
